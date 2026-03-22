@@ -11,7 +11,6 @@
 - 🏢 Previously engineered enterprise networks at **Xevyte Technologies**.
 - 🔭 **Currently Building:** A bare-metal, multi-vendor network automation lab using **EVE-NG** and **Ansible**.
 - 🌱 **Currently Learning:** Advanced Ansible playbooks (Idempotency, templating), Linux administration, and network programmability.
-- ⚡ **Fun Fact:** I recently engineered a custom virtual NAT bridge in a bare-metal Linux environment to stop my physical ISP router from crashing during a massive lab build! 
 
 ---
 
