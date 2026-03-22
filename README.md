@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Asher Vinukonda! 👋</h1>
+<h1 align="center">Hi, I'm Asher Vinukonda! 👋</h1>
 <h3 align="center">Network Engineer | Infrastructure as Code Enthusiast | Automation Builder</h3>
 
 <p align="center">
@@ -27,18 +27,3 @@
 </p>
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radium&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-<p align="center">
-  <i>"Automate the standard, engineer the exceptional."</i>
-</p>
