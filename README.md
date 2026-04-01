@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Asher Vinukonda! 👋</h1>
+<h1 align="center">Hi, I'm Asher Vinukonda! </h1>
 <h3 align="center">Network Engineer | Infrastructure as Code Enthusiast | Automation Builder</h3>
 
 <p align="center">
